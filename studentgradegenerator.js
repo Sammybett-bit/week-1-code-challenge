@@ -1,5 +1,6 @@
-let studentMark = 90
-if (studentMarks >= 80 && studentMarks <= 100) {
+let studentMarks = 30;
+function mymarks(studentMarks){
+  if (studentMarks >= 80 && studentMarks <= 100) {
     console.log('You got A');
   }
   else if(studentMarks >= 70 && studentMarks <= 80){
@@ -17,3 +18,7 @@ if (studentMarks >= 80 && studentMarks <= 100) {
   else {
     console.log('OUT OF RANGE')
   }
+}
+
+mymarks(studentMarks);
+// console.log(studentmarks());
