@@ -21,10 +21,9 @@ To run the whole setup you need to follow this steps;
 
 ## Technologies used
 
-1. HTML
-2. css
-3. Vscode
-4. Code runner
+1. JAVASCRIPT
+2. Vscode
+3. Code runner
 
 ## Getting it started
 To get this app started you have to run this command in your terminal
