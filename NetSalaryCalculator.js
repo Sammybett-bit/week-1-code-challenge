@@ -1,6 +1,6 @@
 // Assign the basic salary and benefits values
-let basicSalary = 8000;
-let benefits = 1800;
+let basicSalary = 24000;
+let benefits = 3000;
 // Calculate the gross salary by summing up basic salary and benefits
 let grossSalary = Math.floor(basicSalary + benefits);
 
